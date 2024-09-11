@@ -10,19 +10,20 @@
 - 💻 Passionné de dev, systèmes et low-level programming  
 - 🧠 Exploration de l'intelligence artificielle, des drones FPV, et plus encore  
 - 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.tiktok.com/@ShadowDevAt42)
-- 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.youtube.com/@ShadowDevAt42)
+- 🎥 [Suivez mon parcours à 42 sur YouTube !](https://www.youtube.com/@ShadowDevAt42)
 
 ---
 
-### 🔥 Stats GitHub :
+### 🔥 GitHub Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical)](https://git.io/streak-stats)
-
-[![Shadow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowDevAt42&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -36,34 +37,42 @@
 
 ---
 
-### ⏳ Statistiques de codage WakaTime :
+### 🏆 Trophées GitHub :
 
-[![Shadow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42)](https://wakatime.com/@ShadowDevAt42)
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical" alt="Trophées GitHub" />
+  </a>
+</p>
 
 ---
 
-### 🏆 Trophées GitHub :
+### ⏳ WakaTime Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Shadow's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42)](https://wakatime.com/@ShadowDevAt42)
 
 ---
 
 ### 🛠 Technologies & Outils :
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 Badges de Stats Personnelles :
 
-![Commits Badge](https://badges.pufler.dev/commits/monthly/ShadowDevAt42)
-![Repos Badge](https://badges.pufler.dev/repos/ShadowDevAt42)
+<p align="center">
+  <img src="https://badges.pufler.dev/commits/monthly/ShadowDevAt42" alt="Commits par mois" />
+  <img src="https://badges.pufler.dev/repos/ShadowDevAt42" alt="Nombre de dépôts" />
+</p>
 
 ---
 
