@@ -1,35 +1,40 @@
-name: Generate Snake Animation
+name: generate animation
 
-# Exécuter à minuit tous les jours
 on:
+  # Exécution automatique toutes les 24 heures
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
+  
+  # Permet de lancer le job manuellement
   workflow_dispatch:
+  
+  # Exécuter sur chaque push vers la branche main
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      # Vérification du dépôt (checkout)
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # Générer les fichiers SVG et GIF du snake
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      # Générer une animation Snake depuis les contributions GitHub
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Utilise le nom de l'utilisateur GitHub
+          github_user_name: ShadowDevAt42  # Remplace par ton nom d'utilisateur GitHub
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      # Pousser le SVG généré dans la branche "output"
-      - name: Push Generated Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.0.0
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # Pousser le contenu de <build_dir> vers la branche output
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Utilise le token personnel que tu as créé (GH_TOKEN)
