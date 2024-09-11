@@ -24,7 +24,15 @@
 
 [![Shadow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowDevAt42&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/ShadowDevAt42/ShadowDevAt42/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🐍 Snake Animation :
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 ---
 
