@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Cloner le dépôt
+      # Utilisation de actions/checkout@v3 au lieu de v2
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Générer le SVG de l'animation Snake
       - name: Generate Snake Animation
