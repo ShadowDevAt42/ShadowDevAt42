@@ -18,10 +18,22 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ShadowDevAt42">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=320&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Langages les plus utilisés" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical" alt="Streak de commits" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&theme=radical" alt="Détails du profil GitHub" />
   </a>
 </p>
 
@@ -29,11 +41,13 @@
 
 ### 🐍 Snake Animation :
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
