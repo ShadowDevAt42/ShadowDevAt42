@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+# Exécuter cette action à une heure précise chaque jour (minuit UTC)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  # Permet aussi de lancer manuellement le workflow
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Cloner le dépôt
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Générer le SVG de l'animation Snake
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ShadowDevAt42  # Remplace par ton pseudo GitHub
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Publier le SVG généré dans la branche "output"
+      - name: Push Generated Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
