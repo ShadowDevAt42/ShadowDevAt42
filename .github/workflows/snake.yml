@@ -21,7 +21,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: ShadowDevAt42  # Remplace par ton pseudo GitHub
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Publier le SVG généré dans la branche "output"
       - name: Push Generated Snake to output branch
