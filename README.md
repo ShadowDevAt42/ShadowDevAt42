@@ -86,7 +86,6 @@
 <p align="center">
   <img src="https://badges.pufler.dev/commits/monthly/ShadowDevAt42" alt="Commits par mois" />
   <img src="https://badges.pufler.dev/repos/ShadowDevAt42" alt="Nombre de dépôts" />
-  <img src="https://wakatime.com/badge/user/5b3b8812-b4c8-49b6-82be-c98ca79becee.svg alt="Time of Coding" />
 </p>
 
 ---
