@@ -9,8 +9,8 @@
 - 🎓 Étudiant à l'école 42 (Piscine Reloaded en cours)  
 - 💻 Passionné de dev, systèmes et low-level programming  
 - 🧠 Exploration de l'intelligence artificielle, des drones FPV, et plus encore  
-- 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.tiktok.com/@ShadowDevAt42)  
-- 🐱 Mon fidèle compagnon Grogu, alias *le Gardien du Tombeau* (un sphynx rose sans poils)
+- 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.tiktok.com/@ShadowDevAt42)
+- 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.youtube.com/@ShadowDevAt42)
 
 ---
 
@@ -20,7 +20,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical)](https://git.io/streak-stats)
+
 [![Shadow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowDevAt42&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/ShadowDevAt42/ShadowDevAt42/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⏳ Statistiques de codage WakaTime :
+
+[![Shadow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42)](https://wakatime.com/@ShadowDevAt42)
+
+---
+
+### 🏆 Trophées GitHub :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -33,6 +49,13 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Badges de Stats Personnelles :
+
+![Commits Badge](https://badges.pufler.dev/commits/monthly/ShadowDevAt42)
+![Repos Badge](https://badges.pufler.dev/repos/ShadowDevAt42)
 
 ---
 
@@ -50,5 +73,5 @@
 
 - 🚀 Avancer rapidement à l'école 42 avec un apprentissage basé sur les projets
 - 🎥 Lancer et développer ma chaîne YouTube et TikTok pour partager mon aventure à 42
-- 📚 Approfondir mes connaissances en C, Python, Shell, et Docker
+- 📚 Approfondir mes connaissances en C, Python, Shell, Docker, LLM, Cybersecurity
 - 🤖 Expérimenter avec les modèles LLM et les projets d'intelligence artificielle
