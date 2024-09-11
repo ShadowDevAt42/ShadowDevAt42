@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical" alt="Trophées GitHub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophées GitHub" />
   </a>
 </p>
 
