@@ -27,7 +27,7 @@ jobs:
 
       # Pousser le SVG généré dans la branche "output"
       - name: Push Generated Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
