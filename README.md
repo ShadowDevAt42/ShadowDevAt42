@@ -9,7 +9,7 @@
 - 🎓 Étudiant à l'école 42 (Piscine Reloaded en cours)  
 - 💻 Passionné de dev, systèmes et low-level programming  
 - 🧠 Exploration de l'intelligence artificielle, des drones FPV, et plus encore  
-- 🎥 [Suivez mon parcours à 42 sur TikTok et YouTube !](https://www.tiktok.com/@ShadowDevAt42)
+- 🎥 [Suivez mon parcours à 42 sur TikTok  !](https://www.tiktok.com/@ShadowDevAt42)
 - 🎥 [Suivez mon parcours à 42 sur YouTube !](https://www.youtube.com/@ShadowDevAt42)
 
 ---
@@ -63,7 +63,11 @@
 
 ### ⏳ WakaTime Stats :
 
-[![Shadow's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42)](https://wakatime.com/@ShadowDevAt42)
+<p align="center">
+  <a href="https://wakatime.com/@ShadowDevAt42">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42" alt="WakaTime Stats" />
+  </a>
+</p>
 
 ---
 
