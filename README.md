@@ -99,7 +99,7 @@
 - [YouTube : ShadowDevAt42](https://www.youtube.com/@ShadowDevAt42)
 - [TikTok : ShadowDevAt42](https://www.tiktok.com/@ShadowDevAt42)
 - [X (Twitter) : @ShadowDevAt42](https://twitter.com/ShadowDevAt42)
-- [LinkedIn : Mon vrai nom ici]([Lien vers ton profil LinkedIn])
+- [LinkedIn : Mon vrai nom ici](https://www.linkedin.com/in/flavio-di-tria-874a26328/)
 - [Portfolio et CV](#) *(en construction)*
 
 ---
