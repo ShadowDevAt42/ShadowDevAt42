@@ -99,7 +99,7 @@
 - [TikTok: ShadowDevAt42](https://www.tiktok.com/@ShadowDevAt42)
 - [X (Twitter): @ShadowDevAt42](https://twitter.com/ShadowDevAt42)
 - [LinkedIn: ShadowDevAt42](https://www.linkedin.com/in/flavio-di-tria-874a26328/)
-- [Portfolio and CV](#) *(under construction)*
+- [Portfolio and CV](https://www.ditria.io)
 
 ---
 
@@ -117,7 +117,7 @@
 Looking for a passionate, tech-obsessed developer who's diving deep into the 42 universe and beyond? Well, look no further – I’m your guy! Whether it’s low-level programming, AI, or just a cool tech chat, I'm here for it. Oh, and did I mention I'm on the hunt for my next big challenge in the tech world?
 
 **Hire me before Elon sends me to Mars!**  
-Follow my journey, drop me a message, or send me a job offer – whatever floats your boat – on [TikTok](https://www.tiktok.com/@ShadowDevAt42), [YouTube](https://www.youtube.com/@ShadowDevAt42), [X (Twitter)](https://twitter.com/ShadowDevAt42), or [Email](mailto:shadowdevat42@pm.me).
+Follow my journey, drop me a message, or send me a job offer – whatever floats your boat – on [Email](mailto:shadowdevat42@pm.me).
 
 
 
