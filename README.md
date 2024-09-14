@@ -40,25 +40,25 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=250&theme=radical" alt="Most used languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical" alt="Commit Streak" />
-  </a>
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&theme=radical" alt="Commit Streak" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=250&theme=radical" alt="Most used languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img height=250 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&theme=radical" alt="GitHub Profile Details" />
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical" alt="Commit Streak" />
+  </a>
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&theme=radical" alt="Commit Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=215 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&theme=radical" alt="GitHub Profile Details" />
   </a>
 </p>
 
