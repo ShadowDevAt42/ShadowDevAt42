@@ -14,63 +14,6 @@
 
 ---
 
-### 🔥 GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=250&theme=radical" alt="Most used languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical" alt="Commit Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShadowDevAt42">
-    <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&theme=radical" alt="GitHub Profile Details" />
-  </a>
-</p>
-
----
-
-### 🐍 Snake Animation:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <a href="https://github.com/ShadowDevAt42">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### ⏳ WakaTime Stats:
-
-<p align="center">
-  <a href="https://wakatime.com/@ShadowDevAt42">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42" alt="WakaTime Stats" />
-  </a>
-</p>
-
----
-
 ### 🛠 Technologies & Tools:
 
 <p align="center">
@@ -89,6 +32,52 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+---
+
+### 🔥 Stats:
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDevAt42&layout=compact&langs_count=8&card_width=250&theme=radical" alt="Most used languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&theme=radical" alt="Commit Streak" />
+  </a>
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&theme=radical" alt="Commit Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img height=250 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&theme=radical" alt="GitHub Profile Details" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🏆 Trophies:
+
+<p align="center">
+  <a href="https://github.com/ShadowDevAt42">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
