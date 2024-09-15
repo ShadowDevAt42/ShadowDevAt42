@@ -86,6 +86,9 @@
   </a>
 </p>
 <br>
+
+---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🏆+Contrib+and+Trophies&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
