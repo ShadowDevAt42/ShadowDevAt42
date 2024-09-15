@@ -62,9 +62,11 @@
 </p>
 
 ---
-
-### 🔥 Stats:
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
@@ -83,6 +85,11 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+  </a>
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
@@ -96,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&title=-Issues,-Reviews,-Experience&theme=kimbie_dark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
