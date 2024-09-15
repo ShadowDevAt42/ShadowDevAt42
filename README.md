@@ -105,13 +105,39 @@
 </p>
 
 ---
-
-### 🚀 **Shadow: Now Available in a Developer Near You!**
-
-Looking for a passionate, tech-obsessed developer who's diving deep into the 42 universe and beyond? Well, look no further – I’m your guy! Whether it’s low-level programming, AI, or just a cool tech chat, I'm here for it. Oh, and did I mention I'm on the hunt for my next big challenge in the tech world?
-
-**Hire me before Elon sends me to Mars!**  
-Follow my journey, drop me a message, or send me a job offer – whatever floats your boat – on [Email](mailto:shadowdevat42@pm.me).
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🚀+Shadow+Now+Available&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+  </a>
+</p>
+<p align="center">
+Looking for a passionate, tech-obsessed developer who's diving deep into the 42 universe and beyond?
+<br>Well, look no further – I’m your guy!<br>
+<br>Whether it’s low-level programming, AI, or just a cool tech chat, I'm here for it. 
+<br>Oh, and did I mention I'm on the hunt for my next big challenge in the tech world?
+<br>
+<br>Hire me before Elon sends me to Mars!
+<br>Follow my journey, drop me a message, or send me a job offer – whatever floats your boat – on.<br>
+</p>
+<p align='center'>
+  <br>
+  <a href="https://www.ditria.io">
+    <img src="https://img.shields.io/badge/website-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shadowdevat42@pm.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flavio-di-tria-874a26328/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-30363D?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
 
