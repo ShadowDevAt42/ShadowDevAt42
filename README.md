@@ -72,7 +72,7 @@
   <a href="https://github.com/ShadowDevAt42">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/ShadowDevAt42">
+  <a href="https://wakatime.com/@ShadowDevAt42">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&hide_border=true&hide_title=true&theme=radical" alt="Commit Streak" />
   </a>
 </p>
