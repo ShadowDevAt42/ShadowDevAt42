@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hi, I'm Shadow (aka ShadowDevAt42)</h1>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/ShadowDevAt42">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=1000&duration=2000&repeat=true&lines=🧑‍💻+About+me&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
@@ -43,20 +43,20 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/ShadowDevAt42">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2000&duration=2500&repeat=true&lines=+👨‍💻+Languages+⚙️+Frameworks+🛠️+Techno&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
   <br>
   <br>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/ShadowDevAt42">
       <img src="https://skillicons.dev/icons?i=c,cs,python,bash,lua,php,js,ts,html,css" />
     </a>
   <br>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/ShadowDevAt42">
       <img src="https://skillicons.dev/icons?i=wordpress,nextjs,django,symfony,pytorch,tensorflow" />
     </a>
   <br>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/ShadowDevAt42">
       <img src="https://skillicons.dev/icons?i=arch,debian,kali,arduino,docker,nginx,windows,apple,figma" />
     </a>
 </p>
@@ -64,12 +64,12 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/ShadowDevAt42">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ShadowDevAt42">
+  <a href="https://wakatime.com/@ShadowDevAt42">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://wakatime.com/@ShadowDevAt42">
@@ -78,10 +78,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShadowDevAt42">
+  <a href="https://wakatime.com/@ShadowDevAt42">
     <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&hide_title=true&hide_border=true&hide_total_contributions=true&card_width=250&card_height=150&theme=radical" alt="Commit Streak" />
   </a>
-  <a href="https://github.com/ShadowDevAt42">
+  <a href="https://wakatime.com/@ShadowDevAt42">
     <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&show_owner=false&theme=radical" alt="GitHub Profile Details" />
   </a>
 </p>
@@ -90,7 +90,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/ShadowDevAt42">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🏆+Contrib+and+Trophies&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
@@ -109,7 +109,7 @@
 
 ---
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/ShadowDevAt42">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🚀+Shadow+Now+Available&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
