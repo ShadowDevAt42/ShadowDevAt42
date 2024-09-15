@@ -1,37 +1,61 @@
-# 👋 Hi, I'm Shadow (aka ShadowDevAt42)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+developer+at+42;Tech+Explorer;Curious+and+ambitious!&center=true&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
-
----
-
-### 🧑‍💻 About me:
-
-- 🎓 Student at 42 (currently doing the Piscine Reloaded)  
-- 💻 Passionate about development, systems, and low-level programming  
-- 🧠 Exploring artificial intelligence, FPV drones, and more  
-- 🎥 [Follow my journey at 42 on TikTok!](https://www.tiktok.com/@ShadowDevAt42)
-- 🎥 [Follow my journey at 42 on YouTube!](https://www.youtube.com/@ShadowDevAt42)
-
----
-
-### 🛠 Technologies & Tools:
-
+<p align="center"> 
+  <h1 align="center">👋 Hi, I'm Shadow (aka ShadowDevAt42)</h1>
+</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
-  <img src="https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=1000&duration=2000&repeat=true&lines=🧑‍💻+About+me&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+  </a>
+</p>
+<p align="center">
+  🎓 Student at 42 (currently doing the Piscine Reloaded)<br>
+  💻 Passionate about development, systems, and low-level programming<br>
+  🧠 Exploring artificial intelligence, FPV drones, and more<br>
+  🚀 Progress rapidly at 42 with a project-based learning approach<br>
+  🎥 Launch and grow my YouTube and TikTok channels to share my journey at 42<br>
+  📚 Deepen my knowledge in C, Python, Shell, Docker, LLM, Cybersecurity<br>
+  🤖 Experiment with LLM models and AI projects
+</p>
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.tiktok.com/@ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>   
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ShadowDevAt42" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yourmail@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
+
+---
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2000&duration=2500&repeat=true&lines=+👨‍💻+Languages+⚙️+Frameworks+🛠️+Techno&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+  </a>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cs,python,bash,lua,php,js,ts,html,css" />
+    </a>
+  <br>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=wordpress,nextjs,django,symfony,pytorch,tensorflow" />
+    </a>
+  <br>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arch,debian,kali,arduino,docker,nginx,windows,apple,figma" />
+    </a>
 </p>
 
 ---
@@ -89,15 +113,6 @@
 - [X (Twitter): @ShadowDevAt42](https://twitter.com/ShadowDevAt42)
 - [LinkedIn: ShadowDevAt42](https://www.linkedin.com/in/flavio-di-tria-874a26328/)
 - [Portfolio and CV](https://www.ditria.io)
-
----
-
-### 🎯 Current Goals:
-
-- 🚀 Progress rapidly at 42 with a project-based learning approach
-- 🎥 Launch and grow my YouTube and TikTok channels to share my journey at 42
-- 📚 Deepen my knowledge in C, Python, Shell, Docker, LLM, Cybersecurity
-- 🤖 Experiment with LLM models and AI projects
 
 ---
 
