@@ -6,6 +6,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=1000&duration=2000&repeat=true&lines=🧑‍💻+About+me&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
+<p align='center'>
+  <a href="https://www.ditria.io">
+    <img src="https://img.shields.io/badge/website-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flavio-di-tria-874a26328/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:shadowdevat42@pm.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   🎓 Student at 42 (currently doing the Piscine Reloaded)<br>
   💻 Passionate about development, systems, and low-level programming<br>
@@ -17,7 +28,7 @@
 </p>
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.tiktok.com/@ShadowDevAt42" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>   
+    <img src="https://img.shields.io/badge/TikTok-30363D?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>   
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ShadowDevAt42" target="_blank">
@@ -25,15 +36,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ShadowDevAt42" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yourmail@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
