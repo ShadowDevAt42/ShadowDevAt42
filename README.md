@@ -70,19 +70,19 @@
 </p>
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowDevAt42&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&hide_border=true&hide_title=true&theme=radical" alt="Commit Streak" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDevAt42&hide_border=true&hide_title=true&theme=radical" alt="Commit Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&hide_title=true&hide_border=true&hide_total_contributions=true&card_width=250&card_height=175&theme=radical" alt="Commit Streak" />
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowDevAt42&hide_title=true&hide_border=true&hide_total_contributions=true&card_width=250&card_height=150&theme=radical" alt="Commit Streak" />
   </a>
   <a href="https://github.com/ShadowDevAt42">
-    <img height=175 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&show_owner=false&theme=radical" alt="GitHub Profile Details" />
+    <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&show_owner=false&theme=radical" alt="GitHub Profile Details" />
   </a>
 </p>
 <br>
