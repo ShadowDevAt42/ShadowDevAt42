@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=1000&duration=2000&repeat=true&lines=🧑‍💻+About+me&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=1000&duration=2000&repeat=true&lines=🧑‍💻+About+me&center=true&vCenter=true&width=500&height=40&color=F78F24" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align='center'>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2000&duration=2500&repeat=true&lines=+👨‍💻+Languages+⚙️+Frameworks+🛠️+Techno&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2000&duration=2500&repeat=true&lines=+👨‍💻+Languages+⚙️+Frameworks+🛠️+Techno&center=true&vCenter=true&width=500&height=40&color=AC1CCF" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
   <br>
   <br>
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40&color=25A940" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align="center">
@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🏆+Contrib+and+Trophies&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🏆+Contrib+and+Trophies&center=true&vCenter=true&width=500&height=40&color=4492CF" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align="center">
@@ -110,7 +110,7 @@
 ---
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🚀+Shadow+Now+Available&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🚀+Shadow+Now+Available&center=true&vCenter=true&width=500&height=40&color=CF2B66" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align="center">
