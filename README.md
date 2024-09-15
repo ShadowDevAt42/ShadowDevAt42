@@ -40,8 +40,8 @@
   </a>
 </p>
 
-
 ---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2000&duration=2500&repeat=true&lines=+👨‍💻+Languages+⚙️+Frameworks+🛠️+Techno&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
@@ -62,6 +62,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
@@ -84,9 +85,10 @@
     <img height=175 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowDevAt42&show_owner=false&theme=radical" alt="GitHub Profile Details" />
   </a>
 </p>
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2300&duration=2800&repeat=true&lines=🔥+Stats+and+Data:&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=23&pause=2600&duration=3100&repeat=true&lines=🏆+Contrib+and+Trophies&center=true&vCenter=true&width=500&height=40" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
 </p>
 <p align="center">
@@ -96,26 +98,11 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowDevAt42/ShadowDevAt42/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
-
-### 🏆 Trophies:
-
 <p align="center">
   <a href="https://github.com/ShadowDevAt42">
     <img src="https://github-profile-trophy.vercel.app/?username=ShadowDevAt42&title=-Issues,-Reviews,-Experience&theme=kimbie_dark&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
-
----
-
-### 🔗 Find me on the web:
-
-- [YouTube: ShadowDevAt42](https://www.youtube.com/@ShadowDevAt42)
-- [TikTok: ShadowDevAt42](https://www.tiktok.com/@ShadowDevAt42)
-- [X (Twitter): @ShadowDevAt42](https://twitter.com/ShadowDevAt42)
-- [LinkedIn: ShadowDevAt42](https://www.linkedin.com/in/flavio-di-tria-874a26328/)
-- [Portfolio and CV](https://www.ditria.io)
 
 ---
 
